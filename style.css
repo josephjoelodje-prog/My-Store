@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+p{
+    font-size: 16px;
+}
+img{
+border:2px solid purple;
+border-radius: 20px; 
+}
